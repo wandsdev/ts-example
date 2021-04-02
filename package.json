@@ -1,0 +1,17 @@
+{
+  "name": "wands-ts-example",
+  "version": "0.1.8",
+  "description": "",
+  "types": "lib",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Wanderlei Junior <wandsdeveloper@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "typescript": "^4.2.3"
+  }
+}
