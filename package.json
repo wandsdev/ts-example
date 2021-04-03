@@ -1,8 +1,8 @@
 {
   "name": "wands-ts-example",
-  "version": "0.1.8",
+  "version": "0.2.8",
   "description": "",
-  "types": "lib",
+  "types": "dist",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -p ."
